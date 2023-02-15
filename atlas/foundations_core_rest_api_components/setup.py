@@ -26,7 +26,7 @@ setup(
         'flask-restful==0.3.7',
         'Flask-Cors==3.0.8',
         'Flask==1.1.1',
-        'Werkzeug==0.16.0',
+        'Werkzeug==2.2.3',
     ],
     packages=find_packages(package_source),
     package_dir={'': package_source},
