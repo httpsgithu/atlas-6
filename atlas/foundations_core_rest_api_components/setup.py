@@ -25,7 +25,7 @@ setup(
         'foundations-contrib=={}'.format(build_version),
         'flask-restful==0.3.7',
         'Flask-Cors==3.0.8',
-        'Flask==1.1.1',
+        'Flask==2.3.2',
         'Werkzeug==0.16.0',
     ],
     packages=find_packages(package_source),
