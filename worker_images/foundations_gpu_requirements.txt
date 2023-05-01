@@ -13,7 +13,7 @@ freezegun==0.3.8
 boto3==1.9.86
 boto==2.49.0
 flask-restful==0.3.7
-Flask==1.1.1
+Flask==2.3.2
 Werkzeug==0.16.0
 Flask-Cors==3.0.8
 mkdocs==1.0.4
